@@ -36,3 +36,8 @@ end10 = "g"
 end11 = "e"
 end12 = "r"
 
+print()
+print()
+
+formatter = "%r %r %r %r"
+print
